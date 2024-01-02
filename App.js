@@ -33,7 +33,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
     
       <WebView
-        source={{ uri: 'https://a5e0-103-156-100-11.ngrok-free.app' }}
+        source={{ uri: 'https://dev.tell.navadhiti.com/' }}
         style={{ flex: 1 }}
       />
     </SafeAreaView>
